@@ -1,0 +1,22 @@
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form2.resources
+C:\Users\Wolf\Desktop\lab_2\PhoneBook-master\bin\Debug\PhoneBook.exe.config
+C:\Users\Wolf\Desktop\lab_2\PhoneBook-master\bin\Debug\PhoneBook.exe
+C:\Users\Wolf\Desktop\lab_2\PhoneBook-master\bin\Debug\PhoneBook.pdb
+C:\Users\Wolf\Desktop\lab_2\PhoneBook-master\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Users\Wolf\Desktop\lab_2\PhoneBook-master\obj\Debug\PhoneBook.Form1.resources
+C:\Users\Wolf\Desktop\lab_2\PhoneBook-master\obj\Debug\PhoneBook.Form2.resources
+C:\Users\Wolf\Desktop\lab_2\PhoneBook-master\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Wolf\Desktop\lab_2\PhoneBook-master\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\Wolf\Desktop\lab_2\PhoneBook-master\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Desktop\lab_2\PhoneBook-master\obj\Debug\PhoneBook.exe
+C:\Users\Wolf\Desktop\lab_2\PhoneBook-master\obj\Debug\PhoneBook.pdb
